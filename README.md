@@ -1,9 +1,30 @@
-# About Spencer Pollock
-[A link to my website](https://spollock.ca)
+`make srepollock; srepollock --intro`
+```
+ ,_,
+(.,.)
+(   )
+-"-"--
+LEARN
+ ```
+<p align="center">
+<img width=498 height=276 src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fa4cd3a19ae2b3ebbca19e4f022e660e4%2Ftenor.gif%3Fitemid%3D8645601&f=1&nofb=1 />wid
+</p>  
 
-My name is Spencer Pollock. I am an outgoing, energetic software developer that is looking to help bring a fresh take on projects. I work towards helping the development community remain inclusive and full of pride in all projects and teams. I specialize in low-level development and tooling. I have also started taking on a DevOps lifestyle as well. I enjoy hiking, reading/writing, playing video games and hanging out with good company. I always look forward to a new adventure or challenge.
+ `> srepollock social`
+ 
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Personal-Website&color=brightgreen&link=https://spollock.ca" /img>
+	<a href="https://github.com/srepollock"><img src="https://img.shields.io/github/followers/srepollock.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/srepollock"><img src="https://img.shields.io/twitter/follow/srepollock?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://medium.com/@srepollock"><img src="https://img.shields.io/badge/Medium--_.svg?label=Medium&style=social" alt="Medium" /></a>
+	<a href="https://www.linkedin.com/in/srepollock"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/srepollock"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+</p>
 
-## Check Out My Recent Blog Posts
+`> srepollock about`
+Programmer. Game Dev. DevOps Life. I work to make things simpler. I'll tell you my story as it unfolds. Come with me on an adventure.
+
+`> check-out-blog --recent`
 <!-- blog starts -->
 * [Why I Continue to Write](https://medium.com/the-post-grad-survival-guide/why-i-continue-to-write-82ce16140d78?source=rss-946d079fd083------2) - Mon, 20 Jul 2020 07:06:03 GMT
 * [Set Your Goals High and Aim Higher](https://medium.com/the-post-grad-survival-guide/set-your-goals-high-and-aim-higher-248a9f1812d4?source=rss-946d079fd083------2) - Fri, 17 Jul 2020 06:59:53 GMT
@@ -11,3 +32,5 @@ My name is Spencer Pollock. I am an outgoing, energetic software developer that 
 * [Why You Should Use Python  to Script.](https://medium.com/swlh/why-you-should-use-python-to-script-8f1d591cf2c1?source=rss-946d079fd083------2) - Tue, 14 Jul 2020 19:49:56 GMT
 * [We’re Going Back to the Dinosaurs.](https://medium.com/swlh/were-going-back-to-the-dinosaurs-ac7c65753d51?source=rss-946d079fd083------2) - Tue, 14 Jul 2020 01:42:58 GMT
 <!-- blog ends -->
+
+`> srepollock --uninstall`
