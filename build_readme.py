@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 import feedparser
-from pandas.io.json import json_normalize
-import pandas as pd
 import pathlib
 import os
 import re
