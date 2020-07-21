@@ -26,11 +26,11 @@ Programmer. Game Dev. DevOps Life. I work to make things simpler. I'll tell you 
 
 `> check-out-blog --recent`
 <!-- blog starts -->
+* [Do You Want To README?](https://medium.com/@srepollock/do-you-want-to-readme-89aa703c1835?source=rss-946d079fd083------2) - Tue, 21 Jul 2020
 * [Why I Continue to Write](https://medium.com/swlh/why-i-continue-to-write-82ce16140d78?source=rss-946d079fd083------2) - Mon, 20 Jul 2020
 * [Set Your Goals High and Aim Higher](https://medium.com/the-post-grad-survival-guide/set-your-goals-high-and-aim-higher-248a9f1812d4?source=rss-946d079fd083------2) - Fri, 17 Jul 2020
 * [A Letter to 15-Year-Old Me](https://medium.com/@srepollock/a-letter-to-15-year-old-me-1a70aa4a660?source=rss-946d079fd083------2) - Thu, 16 Jul 2020
 * [Why You Should Use Python  to Script.](https://medium.com/swlh/why-you-should-use-python-to-script-8f1d591cf2c1?source=rss-946d079fd083------2) - Tue, 14 Jul 2020
-* [We’re Going Back to the Dinosaurs.](https://medium.com/swlh/were-going-back-to-the-dinosaurs-ac7c65753d51?source=rss-946d079fd083------2) - Tue, 14 Jul 2020
 <!-- blog ends -->
 
 `> srepollock --uninstall`
