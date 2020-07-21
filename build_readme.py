@@ -23,7 +23,7 @@ def fetch_blog_entries():
             {
                 "title": entry["title"],
                 "url": entry["link"],
-                "published": entry["published"].split(r"[0-9]{4}")[1]
+                "published": re.split(r"\W[0-9]{2}:[0-9]{2}:[0-9]{2}", entry["published"])[0]
             }
             for entry in entries 
             ]
