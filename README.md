@@ -24,6 +24,10 @@ LEARN
 `> srepollock about`
 Programmer. Game Dev. DevOps Life. I work to make things simpler. I'll tell you my story as it unfolds. Come with me on an adventure.
 
+`> srepollock stats`
+![srepollock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srepollock&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srepollock&hide_langs_below=60)](https://github.com/anuraghazra/github-readme-stats)
+
 `> check-out-blog --recent`
 <!-- blog starts -->
 * [Do You Want To README?](https://medium.com/@srepollock/do-you-want-to-readme-89aa703c1835?source=rss-946d079fd083------2) - Tue, 21 Jul 2020
