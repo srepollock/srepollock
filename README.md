@@ -29,7 +29,7 @@ Programmer. Game Dev. DevOps Life. I work to make things simpler. I'll tell you 
 
 `> check-out-blog --recent`
 <!-- blog starts -->
-* [Setting Up an Ubuntu 20.04 Docker Container](https://medium.com/@srepollock/setting-up-an-ubuntu-20-04-docker-container-c74a873d26c8?source=rss-946d079fd083------2) - Fri, 24 Jul 2020
+* [Setting Up an Ubuntu 20.04 Docker Container](https://medium.com/swlh/setting-up-an-ubuntu-20-04-docker-container-c74a873d26c8?source=rss-946d079fd083------2) - Fri, 24 Jul 2020
 * [Do You Want To README?](https://medium.com/@srepollock/do-you-want-to-readme-89aa703c1835?source=rss-946d079fd083------2) - Tue, 21 Jul 2020
 * [Why I Continue to Write](https://medium.com/swlh/why-i-continue-to-write-82ce16140d78?source=rss-946d079fd083------2) - Mon, 20 Jul 2020
 * [Set Your Goals High and Aim Higher](https://medium.com/the-post-grad-survival-guide/set-your-goals-high-and-aim-higher-248a9f1812d4?source=rss-946d079fd083------2) - Fri, 17 Jul 2020
