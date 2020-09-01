@@ -7,7 +7,7 @@
 LEARN
  ```
 <p align="center">
-<img width=498 height=276 src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fa4cd3a19ae2b3ebbca19e4f022e660e4%2Ftenor.gif%3Fitemid%3D8645601&f=1&nofb=1 />wid
+<img width=498 height=276 src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fa4cd3a19ae2b3ebbca19e4f022e660e4%2Ftenor.gif%3Fitemid%3D8645601&f=1&nofb=1 />
 </p>  
 
  `> srepollock social`
@@ -22,7 +22,16 @@ LEARN
 </p>
 
 `> srepollock about`
-Programmer. Game Dev. DevOps Life. I work to make things simpler. I'll tell you my story as it unfolds. Come with me on an adventure.
+My name is Spencer Pollock. I am an outgoing, energetic software developer that is looking to help bring a fresh take on projects. I work towards helping the development community remain inclusive and full of pride in all projects and teams. Lately, I have been working on creating a game engine in TypeScript with NPM and Electron, but I specialize in low-level development and tooling. I enjoy hiking, playing video games and hanging out with good company. I always look forward to a new adventure or challenge.
+
+**LANGUAGES**
+C, C++, C#, Python, JavaScript, TypeScript, HTML, Shell
+
+**SKILLS**
+Project Management, Continuous Integration/Continuous Development integration, Test Driven Development, Behaviour Driven Development, Automated Systems, System Administration, Agile development, UI/UX design, Photoshop, Game Development, ElectronJS, NodeJS, REST API, ReactJS
+
+**HOBBIES**
+Reading, philosophy, projects on new platforms, projects in new languages, game development, video games, Lacrosse referee, snowboarding, and hiking.
 
 `> srepollock stats`  
 ![srepollock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srepollock&show_icons=true&theme=cobalt)
