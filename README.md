@@ -38,11 +38,11 @@ Reading, philosophy, projects on new platforms, projects in new languages, game 
 
 `> check-out-blog --recent`
 <!-- blog starts -->
+* [I haven't coded in F# but I will be sure to check this extension out if/when I do!](https://medium.com/@srepollock/i-havent-coded-in-f-but-i-will-be-sure-to-check-this-extension-out-if-when-i-do-891a4f1c2c16?source=rss-946d079fd083------2) - Mon, 26 Oct 2020
 * [Morning Routines](https://medium.com/@srepollock/morning-routines-dc081e5c9585?source=rss-946d079fd083------2) - Tue, 06 Oct 2020
 * [Making Visual Studio Code Better ✨](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2?source=rss-946d079fd083------2) - Tue, 15 Sep 2020
 * [This just sounds like John Conway’s Game of Life. One of the best ways to learn to program](https://medium.com/@srepollock/this-just-sounds-like-john-conways-game-of-life-one-of-the-best-ways-to-learn-to-program-f55326cbbc36?source=rss-946d079fd083------2) - Sat, 05 Sep 2020
 * [When You Lose Yourself, Find Your Purpose](https://medium.com/the-post-grad-survival-guide/when-you-lose-yourself-find-your-purpose-dbb2ee73acc0?source=rss-946d079fd083------2) - Thu, 03 Sep 2020
-* [Thank you for sending me to those modules.](https://medium.com/@srepollock/thank-you-for-sending-me-to-those-modules-c87cfa58bccb?source=rss-946d079fd083------2) - Tue, 01 Sep 2020
 <!-- blog ends -->
 
 `> srepollock --uninstall`
