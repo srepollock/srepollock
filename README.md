@@ -40,9 +40,8 @@ Reading, philosophy, projects on new platforms, projects in new languages, game 
 <!-- blog starts -->
 * [Cherry Picking  in Git](https://levelup.gitconnected.com/cherry-picking-in-git-570a75cbc6f7?source=rss-946d079fd083------2) - Sun, 03 Jan 2021
 * [Take Steps for Yourself, Because No One Else Will](https://medium.com/the-post-grad-survival-guide/take-steps-for-yourself-because-no-one-else-will-4233803c36c7?source=rss-946d079fd083------2) - Sat, 02 Jan 2021
-* [Well written article!](https://medium.com/@srepollock/well-written-article-9ac69e5d25f4?source=rss-946d079fd083------2) - Sat, 26 Dec 2020
-* [This article is to switch your package registry / container registry to GitHub's package and…](https://medium.com/@srepollock/this-article-is-to-switch-your-package-registry-container-registry-to-githubs-package-and-2e8cbef4eac9?source=rss-946d079fd083------2) - Fri, 20 Nov 2020
-* [I will cede to this point.](https://medium.com/@srepollock/i-will-cede-to-this-point-ec902fa3e15f?source=rss-946d079fd083------2) - Wed, 28 Oct 2020
+* [Morning Routines](https://medium.com/@srepollock/morning-routines-dc081e5c9585?source=rss-946d079fd083------2) - Tue, 06 Oct 2020
+* [Making Visual Studio Code Better ✨](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2?source=rss-946d079fd083------2) - Tue, 15 Sep 2020
 <!-- blog ends -->
 
 `> srepollock --uninstall`
