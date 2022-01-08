@@ -69,7 +69,11 @@ Reading, philosophy, projects on new platforms, projects in new languages, game 
 
 `> check-out-blog --recent`
 <!-- blog starts -->
-
+* [The Importance of Looking Back](https://medium.com/swlh/the-importance-of-looking-back-90c5ca43b283?source=rss-946d079fd083------2) - Fri, 31 Dec 2021
+* [Cherry Picking  in Git](https://levelup.gitconnected.com/cherry-picking-in-git-570a75cbc6f7?source=rss-946d079fd083------2) - Sun, 03 Jan 2021
+* [Take Steps for Yourself, Because No One Else Will](https://medium.com/the-post-grad-survival-guide/take-steps-for-yourself-because-no-one-else-will-4233803c36c7?source=rss-946d079fd083------2) - Sat, 02 Jan 2021
+* [Morning Routines](https://srepollock.medium.com/morning-routines-dc081e5c9585?source=rss-946d079fd083------2) - Tue, 06 Oct 2020
+* [Making Visual Studio Code Better ✨](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2?source=rss-946d079fd083------2) - Tue, 15 Sep 2020
 <!-- blog ends -->
 
 `> srepollock --uninstall`
