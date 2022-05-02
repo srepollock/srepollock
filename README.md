@@ -34,7 +34,7 @@ Spencer specializes in Git, C#, Python, JavaScript, DevOps, Docker, AWS, C++ as 
 He constantly works to improve these skills and is always willing to try new things to advance.
 
 👱‍♂️𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙇𝙞𝙛𝙚👾
-Outside of work, Spencer has found new passions through martial arts, hiking, cooking, music, and photography. He works hard in his hobbies and tries to relate skills learned through them into his programming. He is a family-oriented individual, always making time to visit and make memories.
+Outside of work, Spencer has found new passions through hiking, cooking, music, and philosophy. He works hard in his hobbies and tries to relate skills learned through them into his programming. He is a family-oriented individual, always making time to visit and make memories.
 
 🎖𝘼𝙘𝙘𝙤𝙢𝙥𝙡𝙞𝙨𝙝𝙢𝙚𝙣𝙩𝙨🏆
 🔴Has a bachelors degree in Computer Systems from BCIT
